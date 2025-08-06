@@ -1,2 +1,6 @@
-# Matem-tica-Math
-Repositório criado para compilar os meus estudos de matemática | Repository created to compile my math studies
+# Matematica
+Repositório criado para compilar os meus estudos de matemática
+
+|Dia|Resumo
+|---|---|
+|Dia 1|Integral|
